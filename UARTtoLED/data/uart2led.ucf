@@ -1,0 +1,23 @@
+#
+# pin constraints
+#
+NET CLK_100MHZ LOC = "V10"  |  IOSTANDARD = "LVCMOS33";
+NET LEDs_pin[0] LOC = "T18"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET LEDs_pin[1] LOC = "T17"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET LEDs_pin[2] LOC = "U18"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET LEDs_pin[3] LOC = "U17"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET LEDs_pin[4] LOC = "N16"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET LEDs_pin[5] LOC = "N15"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET LEDs_pin[6] LOC = "P16"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET LEDs_pin[7] LOC = "P15"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET UART_SIN LOC = "A8"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+NET UART_SOUT LOC = "B8"  |  DRIVE = "8"  |  IOSTANDARD = "LVCMOS33";
+#
+# additional constraints
+#
+
+NET "CLK_100MHZ" TNM_NET = sys_clk_pin;
+TIMESPEC TS_sys_clk_pin = PERIOD sys_clk_pin 100000 kHz;
+
+
+NET "RESET" LOC = M16 | IOSTANDARD = LVCMOS33 | DRIVE = 8 | SLEW = FAST | PULLUP;

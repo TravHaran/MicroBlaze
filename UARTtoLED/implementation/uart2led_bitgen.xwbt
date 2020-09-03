@@ -1,0 +1,7 @@
+INFILE=C:\Users\TRAV\Desktop\FPGA_Tutorials\UARTtoLED\implementation\uart2led.ncd
+OUTFILE=C:\Users\TRAV\Desktop\FPGA_Tutorials\UARTtoLED\implementation\uart2led.bit
+FAMILY=Spartan6
+PART=xc6slx9-2csg324
+WORKINGDIR=C:\Users\TRAV\Desktop\FPGA_Tutorials\UARTtoLED\implementation
+LICENSE=WebPack
+USER_INFO=211967289_0_0_607

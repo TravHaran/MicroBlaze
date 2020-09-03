@@ -1,0 +1,17 @@
+C:\Users\TRAV\Desktop\FPGA_Tutorials\UARTtoLED\implementation\uart2led.ngc 1599056132
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_uart_wrapper.ngc 1599056075
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_proc_sys_reset_0_wrapper.ngc 1599055977
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_clock_generator_0_wrapper.ngc 1599056108
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_microblaze_0_intc_wrapper.ngc 1599055984
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_microblaze_0_ilmb_wrapper.ngc 1599056099
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_microblaze_0_dlmb_wrapper.ngc 1599056102
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_lpddr_wrapper.ngc 1599056117
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_axi4lite_0_wrapper.ngc 1599056111
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_axi4_0_wrapper.ngc 1599056114
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_microblaze_0_wrapper.ngc 1599056105
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_microblaze_0_i_bram_ctrl_wrapper.ngc 1599055994
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_microblaze_0_d_bram_ctrl_wrapper.ngc 1599056003
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_debug_module_wrapper.ngc 1599056048
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_leds_wrapper.ngc 1599056096
+C:/Users/TRAV/Desktop/FPGA_Tutorials/UARTtoLED/implementation/uart2led_microblaze_0_bram_block_wrapper.ngc 1599056008
+OK
